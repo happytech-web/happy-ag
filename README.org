@@ -1,0 +1,14 @@
+#+title: README
+#+author: happytech
+
+* what is happy-ag?
+受南京大学计算机学院蒋炎岩老师的操作系统课程启发，动手写一个自己的命令行ai工具
+
+#+begin_quote
+by 蒋老师:
+一个重塑全人类的prompt:
+我正在做[X]。如果你是一位专业人士，有更好的方法和建议吗？尽可能全面
+#+end_quote
+
+* 目前功能
+现阶段仅仅实现了最基本的对话和结果用glow进行markdown渲染，甚至还不支持pipe功能，正在完善中~
